@@ -1,3 +1,5 @@
+Shamelessly cloned from 
+
 django-handstand-audreyr
 ========================
 
